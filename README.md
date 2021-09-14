@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/newt0/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=newt0)](https://github.com/newt0/github-profile-trophy)
 
 ![newt0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=newt0&show_icons=true&theme=radical)
 

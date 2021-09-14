@@ -1,5 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/newt0/github-profile-trophy)
 
+<img src="https://user-images.githubusercontent.com/56229817/133246085-19b96a11-2c36-46a6-b962-269d9f0995b3.png" width="300px">
+
 ■ Profile
 | key | value |
 | ---- | ---- |

@@ -2,8 +2,7 @@
 
 ![newt0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=newt0&show_icons=true&theme=radical)
 
-
-<img src="https://user-images.githubusercontent.com/56229817/133246085-19b96a11-2c36-46a6-b962-269d9f0995b3.png" width="300px">
+<img src="https://user-images.githubusercontent.com/56229817/138432305-b6efd874-7920-4a1d-8289-364c44d32786.png" width="300px">
 
 ■ Profile
 | key | value |

@@ -1,15 +1,11 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=newt0)](https://github.com/newt0/github-profile-trophy)
+[![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![trophy](https://github-profile-trophy.vercel.app/?username=newt0)](https://github.com/newt0/github-profile-trophy)
 
 
 <img src="https://user-images.githubusercontent.com/56229817/138432305-b6efd874-7920-4a1d-8289-364c44d32786.png" width="300px">
-
-- name: GitHub-Profile-Summary-Cards
-  uses: vn7n24fzkq/github-profile-summary-cards@v0.4.0-hotfix.3
-
 
 ■ Profile
 | key | value |

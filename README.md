@@ -10,10 +10,8 @@
 ■ Profile
 | key | value |
 | ---- | ---- |
-| 名前 | newt0 |
+| name | newt0 |
 | Twitter | [@kyohei_nft](https://twitter.com/kyohei_nft) |
 | Wantedly | [@nft](https://www.wantedly.com/id/nft) |
-| 好きな言語・技術 | JavaScript, React, Firebase, Solidty |
-| 興味のあること | React × Solidity で NFT マーケットプレイスの開発|
-| 趣味 | 読書, 筋トレ|
+| tech | JavaScript, TypeScript,  Next.js(React), Firebase, Solidty |
 

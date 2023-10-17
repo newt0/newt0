@@ -4,7 +4,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=newt0&title=MultiLanguage,Commits,Repositories,Issues,)
 
-<img width="300px" heigth=auto alt="image" src="https://github.com/newt0/newt0/assets/56229817/8a528d25-1f58-4693-87ff-5532b8b7f492">
+<img width="300px" heigth=auto alt="image" src="https://github.com/newt0/newt0/assets/56229817/fb8a086f-7662-45e6-879b-b42baf27d6f3">
 
 ■ Profile
 | key | value |

@@ -2,7 +2,8 @@
 ![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/newt0/newt0/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
-<img width="300px" heigth=auto alt="image" src="https://github.com/user-attachments/assets/c9487979-db27-49a1-be25-b6da59381442">
+<img width="300px" heigth=auto alt="image" src="https://github.com/user-attachments/assets/85e52859-ce7a-43be-9a62-9ccadeb5a9e4
+">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=newt0&title=MultiLanguage,Commits,Repositories,Issues,)
 
